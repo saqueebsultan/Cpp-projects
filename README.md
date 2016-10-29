@@ -1,7 +1,5 @@
-# Cpp-projects
-Contains the source codes (C++) to the one of the key assignments of my undergraduate Programming language course. 
-How to compile and install:
-
+# Cpp-project
+Contains the source code (C++) to the one of the key assignments of my undergraduate Programming language course. 
 
 # Steps to Run the Project
 1. Download Code::Blocks:
@@ -44,4 +42,4 @@ _At this point, you will have your main.cpp file, which you can modify if you li
 
 ***
 
-# For further information on setting up and running codeblocks, please follow this link: http://www.cprogramming.com/code_blocks/
+# For further information related to configuring and running codeblocks, please follow this link: http://www.cprogramming.com/code_blocks/
