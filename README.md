@@ -1,2 +1,3 @@
 # Cpp-projects
-Contains some of the source codes (C++) to the assignments of my undergraduate Programming language course 
+Contains the source codes (C++) to the one of the key assignments of my undergraduate Programming language course. 
+How to compile and install 
