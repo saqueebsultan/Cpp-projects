@@ -1,5 +1,5 @@
 # Cpp-project
-Contains the source code (C++) to the one of the key assignments of my undergraduate Programming language course. 
+Source code of airship program
 
 # Steps to Run the Project
 1. Download Code::Blocks:
